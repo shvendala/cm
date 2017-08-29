@@ -1,0 +1,183 @@
+# Countries in the bundle
+## Europe
+- Albania
+- Austria
+- Belarus
+- Belgium
+- Bosnia and Herzegovina
+- Bulgaria
+- Croatia
+- Czech Republic
+- Denmark
+- Estonia
+- Finland
+- France
+- Germany
+- Greece
+- Hungary
+- Iceland
+- Ireland
+- Italy
+- Kosovo
+- Latvia
+- Lithuania
+- Luxembourg
+- Macedonia
+- Moldova
+- Montenegro
+- Netherlands
+- Norway
+- Poland
+- Portugal
+- Republic of Serbia
+- Romania
+- Russia
+- Slovakia
+- Slovenia
+- Spain
+- Sweden
+- Switzerland
+- Ukraine
+- United Kingdom
+
+## Asia and Oceania
+- Afghanistan
+- Armenia
+- Australia
+- Azerbaijan
+- Bangladesh
+- Bhutan
+- Brunei
+- Cambodia
+- China
+- Cyprus
+- Fiji
+- Georgia
+- India
+- Indonesia
+- Iran
+- Israel
+- Japan
+- Jordan
+- Kazakhstan
+- Kuwait
+- Kyrgyzstan
+- Laos
+- Lebanon
+- Malaysia
+- Mongolia
+- Myanmar
+- Nepal
+- New Caledonia
+- New Zealand
+- North Korea
+- Northern Cyprus
+- Oman
+- Pakistan
+- Palestine
+- Philippines
+- Qatar
+- Republic of Iraq
+- Saudi Arabia
+- Solomon Islands
+- South Korea
+- Sri Lanka
+- Syria
+- Taiwan
+- Tajikistan
+- Thailand
+- Timor-Leste
+- Turkey
+- Turkmenistan
+- UAE
+- Uzbekistan
+- Vanuatu
+- Vietnam
+- Yemen
+ 
+## Americas & Antarctica
+- Antarctica
+- Argentina
+- Bahamas
+- Belize
+- Bolivia
+- Brazil
+- Canada
+- Chile
+- Colombia
+- Costa Rica
+- Cuba
+- Dominicana
+- Ecuador
+- Falklands
+- Greenland
+- Guatemala
+- Guyana
+- Haiti
+- Honduras
+- Jamaica
+- Mexico
+- Nicaragua
+- Panama
+- Paraguay
+- Peru
+- Puerto Rico
+- Republic of El Salvador
+- Suriname
+- Trinidad and Tobago
+- USA
+- Uruguay
+- Venezuela
+
+## Africa
+- Algeria
+- Angola
+- Benin
+- Botswana
+- Burkina Faso
+- Burundi
+- Cameroon
+- CAR
+- Chad
+- Congo
+- Djibouti
+- DR Congo
+- Egypt
+- Eritrea
+- Ethiopia
+- Gabon
+- Gambia
+- Ghana
+- Guinea
+- Guinea-Bissau
+- Ivory Coast
+- Kenya
+- Lesotho
+- Liberia
+- Libya
+- Madagascar
+- Malawi
+- Mali
+- Mauritania
+- Morocco
+- Mozambique
+- Namibia
+- Niger
+- Nigeria
+- Papua New Guinea
+- Rwanda
+- Senegal
+- Sierra Leone
+- Somalia
+- Somaliland
+- South Africa
+- South Sudan
+- Sudan
+- Swaziland
+- Tanzania
+- Togo
+- Tunisia
+- Uganda
+- Western Sahara
+- Zambia
+- Zimbabwe
